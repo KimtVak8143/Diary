@@ -1,1 +1,1 @@
-# Diary
+# Personal Diary Management system
